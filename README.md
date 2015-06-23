@@ -1,5 +1,5 @@
-# shibpurconnect-android-app
+# beconnect-android-app
 
-Repository to track all the defects for Shibpur Connect android app
+Android app for [BEConnect](http://shibpur.azurewebsites.net)
 
-https://play.google.com/store/apps/details?id=bp.shibpur.pk_android.shibpurconnect&hl=en
+
