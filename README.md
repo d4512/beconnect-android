@@ -1,5 +1,5 @@
 # beconnect-android-app
 
-Android app for [BEConnect](http://shibpur.azurewebsites.net)
+Android app for [BEConnect](http://shibpurhub.com)
 
 
